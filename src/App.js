@@ -11,7 +11,7 @@ class App extends React.Component{
   render(){
     console.log('render')
     return <div className='name'>
-      hello1
+      hello1 ok
     </div>
   }
 }
